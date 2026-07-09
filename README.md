@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**Pebetsit/PebetsiT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--# Hi, I'm Pebetsi Thokwane 👋
 
-Here are some ideas to get you started:
+🎓 PhD Candidate in Physics
+💻 Aspiring Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building web applications and solving real-world problems through software. My background in Physics has developed strong analytical and problem-solving skills, which I now apply to software development while continuously expanding my knowledge of modern web technologies.
+
+## Tech Stack
+- HTML5
+- CSS3
+- JavaScript
+- Python
+- Git & GitHub
+- React (Learning)
+
+## Current Focus
+- Building responsive web applications
+- Learning React
+- Strengthening JavaScript skills
+- Preparing for graduate software engineering opportunities
+
+
