@@ -12,8 +12,6 @@ I enjoy designing and developing software that solves real-world problems. My ba
 - CSS3
 - JavaScript
 - Python
-- Git
-- GitHub
 
 ## 🚀 Current Focus
 
